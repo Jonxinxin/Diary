@@ -1,6 +1,7 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
+    "title":"江小鑫的秘密基地",
+    "subTitle":"No Admittance",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>",
     "GMEEK_VERSION":"last"
 }
